@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "title": "Hanuman Chalisa",
+            "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/hanuman.mp3",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/hanuman1.png"
+        },
+        {
+            "title": "Ganesh",
+            "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/ganesh.mp3",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/ganesh.png"
+        }
+    ]
+}
