@@ -2,7 +2,7 @@
     "data": [
         {
             "title": "Hanuman Chalisa",
-            "title-version": "1.0"
+            "title-version": "1.0",
             "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/hanuman.mp3",
             "song-version" : "1.0",
             "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/hanuman1.png",
