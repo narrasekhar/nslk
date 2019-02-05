@@ -3,12 +3,20 @@
         {
             "title": "Hanuman Chalisa",
             "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/hanuman.mp3",
-            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/hanuman1.png"
+            "song-version" : "1.0",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/hanuman1.png",
+            "image-version" : "1.0",
+            "content" : "",
+            "content-version" : "1.0"
         },
         {
             "title": "Ganesh",
             "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/ganesh.mp3",
-            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/ganesh.png"
+            "song-version" : "1.0",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/ganesh.png",
+            "image-version" : "1.0",
+            "content" : "",
+            "content-version" : "1.0"
         }
     ]
 }
