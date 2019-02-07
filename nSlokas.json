@@ -8,18 +8,28 @@
             "song-version" : "1.0",
             "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/hanuman1.png",
             "image-version" : "1.0",
-            "content" : "Shree Guru Charan Saroj Raj, Nij Man Mukar Sudhari,\nBarnau Raghuvar Bimal Jasu, Jo dayaku Phal Chari",
-            "content-version" : "1.1"
+            "content" : "Shri Guru Charan Sarooja-raj Nija manu Mukura Sudhaari,\nBaranau Rahubhara Bimala Yasha Jo Dayaka Phala Chari,\nBudhee-Heen Thanu Jannikay Sumirow Pavana Kumara,\nBala-Budhee Vidya Dehoo Mohee Harahu Kalesha Vikaara \n\n\nJai Hanuman gyan gun sagar\nJai Kapis tihun lok ujagar \n\n\nRam doot atulit bal dhama\nAnjaani-putra Pavan sut nama \n\n\nMahabir Bikram Bajrangi\nKumati nivar sumati Ke sangi \n\n\nKanchan varan viraj subesa\nKanan Kundal Kunchit Kesha \n\n\nHath Vajra Aur Dhuvaje Viraje\nKaandhe moonj janehu sajai \n\n\nSankar suvan kesri Nandan\nTej prataap maha jag vandan \n\n\nVidyavaan guni ati chatur\nRam kaj karibe ko aatur \n\n\nPrabu charitra sunibe-ko rasiya\nRam Lakhan Sita man Basiya \n\n\nSukshma roop dhari Siyahi dikhava\nVikat roop dhari lank jarava \n\n\nBhima roop dhari asur sanghare\nRamachandra ke kaj sanvare \n\n\nLaye Sanjivan Lakhan Jiyaye\nShri Raghuvir Harashi ur laye \n\n\nRaghupati Kinhi bahut badai\nTum mam priye Bharat-hi-sam bhai \n\n\nSahas badan tumharo yash gaave\nAsa-kahi Shripati kanth lagaave \n\n\nSankadhik Brahmaadi Muneesa\nNarad-Sarad sahit Aheesa \n\n\nYam Kuber Digpaal Jahan te\nKavi kovid kahi sake kahan te \n\n\nTum upkar Sugreevahin keenha\nRam milaye rajpad deenha \n\n\nTumharo mantra Vibheeshan maana\nLankeshwar Bhaye Sub jag jana \n\n\nYug sahastra jojan par Bhanu\nLeelyo tahi madhur phal janu \n\n\nPrabhu mudrika meli mukh mahee\nJaladhi langhi gaye achraj nahee \n\n\nDurgaam kaj jagath ke jete\nSugam anugraha tumhre tete \n\n\nRam dwaare tum rakhvare\nHoat na agya binu paisare \n\n\nSub sukh lahae tumhari sar na\nTum rakshak kahu ko dar naa \n\n\nAapan tej samharo aapai\nTeenhon lok hank te kanpai \n\n\nBhoot pisaach Nikat nahin aavai\nMahavir jab naam sunavae \n\n\nNase rog harae sab peera\nJapat nirantar Hanumant beera \n\n\nSankat se Hanuman chudavae\nMan Karam Vachan dyan jo lavai \n\n\nSab par Ram tapasvee raja\nTin ke kaj sakal Tum saja \n\n\nAur manorath jo koi lavai\nSohi amit jeevan phal pavai \n\n\nCharon Yug partap tumhara\nHai persidh jagat ujiyara \n\n\nSadhu Sant ke tum Rakhware\nAsur nikandan Ram dulhare \n\n\nAshta-sidhi nav nidhi ke dhata\nAs-var deen Janki mata \n\n\nRam rasayan tumhare pasa\nSada raho Raghupati ke dasa \n\n\nTumhare bhajan Ram ko pavai\nJanam-janam ke dukh bisraavai \n\n\nAnth-kaal Raghuvir pur jayee\nJahan janam Hari-Bakht Kahayee \n\n\nAur Devta Chit na dharehi\nHanumanth se hi sarve sukh karehi \n\n\nSankat kate-mite sab peera\nJo sumirai Hanumat Balbeera \n\n\nJai Jai Jai Hanuman Gosahin\nKripa Karahu Gurudev ki nyahin \n\n\nJo sat bar path kare kohi\nChutehi bandhi maha sukh hohi \n\n\nJo yah padhe Hanuman Chalisa\nHoye siddhi sakhi Gaureesa \n\n\nTulsidas sada hari chera\nKeejai Nath Hridaye mein dera \n\n\n*** Doha ***\n\nPavan Tanay Sankat Haran, \nMangala Murati Roop\n\nRam Lakhana Sita Sahita, \nHriday Basahu Soor Bhoop",
+            "content-version" : "1.0"
         },
         {
             "id" : "2",
             "title": "Ganesh Slokam",
-            "title-version": "1.1",
+            "title-version": "1.0",
             "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/ganesh.mp3",
             "song-version" : "1.0",
             "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/ganesh.png",
             "image-version" : "1.0",
-            "content" : "",
+            "content" : "Vakra-Tunndda Maha-Kaaya Suurya-Kotti Samaprabha\nNirvighnam Kuru Me Deva Sarva-Kaaryessu Sarvadaa",
+            "content-version" : "1.1"
+        },
+        {"id" : "3",
+            "title": "kalabhairava ashtakam",
+            "title-version": "1.0",
+            "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/KalaBA.mp3",
+            "song-version" : "1.0",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/KBR.png",
+            "image-version" : "1.0",
+            "content" : "Deva raja sevya mana pavangri pankajam,\nVyala yagna suthra mindu shekaram krupakaram,\nNaradadhi yogi vrundha vandhitham digambaram,\nKasika puradhi nadha Kalabhairavam bhaje\n\nBhanu koti bhaswaram, bhavabdhi tharakam param,\nNeelakanda meepsidartha dayakam trilochanam,\nKalakala mambujaksha maksha soola maksharam,\nKasika puradhi nadha Kalabhairavam bhaje\n\nSoola tanga pasa danda pani madhi karanam,\nSyama kaya madhi devamaksharam niramayam,\nBheema vikramam prabhum vichithra thandava priyam,\nKasika puradhi nadha Kalabhairavam bhaje\n\nBhukthi mukthi dayakam prasashtha charu vigraham,\nBhaktha vatsalam shivam[6], samastha loka vigraham,\nVinikwanan manogna hema kinkini lasath kateem,\nKasika puradhi nadha Kalabhairavam bhaje\n\nDharma sethu palakam, thwa dharma marga nasakam,\nKarma pasa mochakam, susharma dayakam vibhum,\nSwarna varna sesha pasa shobithanga mandalam,\nKasika puradhi nadha Kalabhairavam bhaje\n\nRathna padukha prabhabhirama padayugmakam,\nNithyamadwidheeyamishta daivatham niranjanam,\nMrutyu darpa nasanam karaladamshtra mokshanam,\nKasika puradhi nadha Kalabhairavam bhaje\n\nAttahasa binna padma janda kosa santhatheem,\nDrushti pada nashta papa jala mugra sasanam,\nAshtasidhi dayakam kapala malikadaram,\nKasika puradhi nadha Kalabhairavam bhaje\n\nBhootha sanga nayakam, vishala keerthi dayakam,\nKasi vasa loka punya papa shodhakam vibum,\nNeethi marga kovidham purathanam jagatpathim,\nKasika puradhi nadha Kalabhairavam bhaje\nKalabhairavashtakam patanthi yea manoharam,\nJnana mukthi sadhanam, vichithra punya vardhanam,\nSoka moha dainya lopa kopa thapa nasanam,\nThea prayanthi Kalabhairavangri saniidhim druvam",
             "content-version" : "1.0"
         }
     ]
