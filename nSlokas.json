@@ -23,8 +23,8 @@
             "content-version" : "1.1"
         },
         {"id" : "3",
-            "title": "kalabhairava ashtakam",
-            "title-version": "1.0",
+            "title": "kalabhairavashtakam",
+            "title-version": "1.1",
             "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/mp3/KalaBA.mp3",
             "song-version" : "1.0",
             "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/images/KBR.png",
