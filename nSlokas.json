@@ -31,6 +31,26 @@
             "image-version" : "1.0",
             "content" : "Deva raja sevya mana pavangri pankajam,\nVyala yagna suthra mindu shekaram krupakaram,\nNaradadhi yogi vrundha vandhitham digambaram,\nKasika puradhi nadha Kalabhairavam bhaje\n\nBhanu koti bhaswaram, bhavabdhi tharakam param,\nNeelakanda meepsidartha dayakam trilochanam,\nKalakala mambujaksha maksha soola maksharam,\nKasika puradhi nadha Kalabhairavam bhaje\n\nSoola tanga pasa danda pani madhi karanam,\nSyama kaya madhi devamaksharam niramayam,\nBheema vikramam prabhum vichithra thandava priyam,\nKasika puradhi nadha Kalabhairavam bhaje\n\nBhukthi mukthi dayakam prasashtha charu vigraham,\nBhaktha vatsalam shivam[6], samastha loka vigraham,\nVinikwanan manogna hema kinkini lasath kateem,\nKasika puradhi nadha Kalabhairavam bhaje\n\nDharma sethu palakam, thwa dharma marga nasakam,\nKarma pasa mochakam, susharma dayakam vibhum,\nSwarna varna sesha pasa shobithanga mandalam,\nKasika puradhi nadha Kalabhairavam bhaje\n\nRathna padukha prabhabhirama padayugmakam,\nNithyamadwidheeyamishta daivatham niranjanam,\nMrutyu darpa nasanam karaladamshtra mokshanam,\nKasika puradhi nadha Kalabhairavam bhaje\n\nAttahasa binna padma janda kosa santhatheem,\nDrushti pada nashta papa jala mugra sasanam,\nAshtasidhi dayakam kapala malikadaram,\nKasika puradhi nadha Kalabhairavam bhaje\n\nBhootha sanga nayakam, vishala keerthi dayakam,\nKasi vasa loka punya papa shodhakam vibum,\nNeethi marga kovidham purathanam jagatpathim,\nKasika puradhi nadha Kalabhairavam bhaje\nKalabhairavashtakam patanthi yea manoharam,\nJnana mukthi sadhanam, vichithra punya vardhanam,\nSoka moha dainya lopa kopa thapa nasanam,\nThea prayanthi Kalabhairavangri saniidhim druvam",
             "content-version" : "1.0"
+        },
+        {"id" : "4",
+            "title": "Lingastakam",
+            "title-version": "1.0",
+            "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/Lingashtakam.mp3",
+            "song-version" : "1.0",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/shiva.png",
+            "image-version" : "1.0",
+            "content" : "Brahma Muraari Surarchita Lingam\nNirmala Bhaashita Sobhitha Lingam\nJanmaja Dhukha Vinaasaha Lingam\nTatpranamaami Sadaashiva Lingam \n\nDevamuni Pravaraarchita Lingam\nKaama Dahana Karunaakara Lingam\nRavana Darpa Vinaasaha Lingam\nTatpranamaami Sadaashiva Lingam\n\nSarva Sugandha Sulepitha Lingam\nBuddhi Vivaardhana Kaarana Lingam\nSiddha Suraasura Vandhitha Lingam\nTatpranamaami Sadaashiva Lingam\n\nKanaga Mahaamani Bhooshitha Lingam\nPanipati Veshthitha Sobitha Lingam\nDaksha Suyajna Vinaasana Lingam\nTatpranamaami Sadaashiva Lingam\n\nKunkuma Chandhana Lehpitha Lingam\nPankaja Haara Susobhitha Lingam\nSanchitha Paapa Vinaashana Lingam\nTatpranamaami Sadaashiva Lingam \n\nDeva Ganaarchita Sevitha Lingam\nBhavair Bhakhi Bhirevacha Lingam\nDinakara Koti Prabhaakara Lingam\nTatpranamaami Sadaashiva Lingam \n\nAhshta Dalopari Veshthitha Lingam\nSarva Samudbhava Kaarana Lingam\nAhshta Daridra Vinaasana Lingam\nTatpranamaami Sadaashiva Lingam\n\nSuraguru Suravara Poojitha Lingam\nSuravana Pushpa Sadarchitha Lingam\nParaath Param Paramatmaka Lingam\nTatpranamaami Sadaashiva Lingam\n\nLingashtaka Midam Punyam\nYah Pathet Sivasannidhau\nSivaloka Mahaapnoti\nSivehna Saha Modatheh",
+            "content-version" : "1.0"
+        },
+        {"id" : "5",
+            "title": "Saraswathi Slokam",
+            "title-version": "1.0",
+            "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/saraswati.mp3",
+            "song-version" : "1.0",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/saraswati.png",
+            "image-version" : "1.0",
+            "content" : "Saraswati Namastubhyam Varade Kaama-Roopini\nVidyaarambham Karishyaami Siddhir-Bhavatu Me Sadaa",
+            "content-version" : "1.0"
         }
     ]
 }
