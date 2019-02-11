@@ -61,6 +61,26 @@
             "image-version" : "1.0",
             "content" : "Om Bhur Bhuvah Swaha\nTat Savitur Varenyam\nBhargo Devasya Dhimahi\nDhiyo Yo Nah Pracho Dayat",
             "content-version" : "1.0"
+        },
+        {"id" : "7",
+            "title": "Ram Mantram",
+            "title-version": "1.0",
+            "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/mp3/rama.mp3",
+            "song-version" : "1.0",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/images/rama.png",
+            "image-version" : "1.0",
+            "content" : "Shri Rama Rama Rameti\nRame Rame Manorame\nSahasrenama tattulyam\nRama Nama Varanane",
+            "content-version" : "1.0"
+        },
+        {"id" : "8",
+            "title": "Lakshmi Slokam",
+            "title-version": "1.0",
+            "song-url": "https://raw.githubusercontent.com/narrasekhar/nslk/master/mp3/lakshmiSamudra.mp3",
+            "song-version" : "1.0",
+            "image-url":"https://raw.githubusercontent.com/narrasekhar/nslk/master/images/lakshmi.png",
+            "image-version" : "1.0",
+            "content" : "Lakshmi Ksheera Samudra Raaja Tanaya\nSree Ranga Dhaameshvari\nDaasi Bhootha Samasata Deva Vanithaam\nLokaika Deepankuram\nSreeman Manda Kataaksha Labdha Vibhava\nBrahmendra Gangaadharam\nTvaam Trailokya Kudumbineem\nSarasijam Vande Mukunda Priyaam",
+            "content-version" : "1.0"
         }
     ]
 }
